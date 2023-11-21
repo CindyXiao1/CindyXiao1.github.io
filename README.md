@@ -5,7 +5,11 @@ layout: page
 ---
 Introduction
 
-2nd or 3rd year computer science student in SFU
+2nd/ 3rd year computer science student in SFU
+knowledge to c, c++, c#
+
+
+Projects on game development and software engineering
 
 
 
