@@ -3,7 +3,11 @@ title: "About"
 permalink: "/about/"
 layout: page
 ---
-##Introduction
+Introduction
 
-3rd year computer science student in SFU
+2nd or 3rd year computer science student in SFU
+
+
+
+
 
