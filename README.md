@@ -11,7 +11,7 @@ knowledge to c, c++, c#
 
 Projects on game development and software engineering
 
-
+Student assistant for cmpt 2395 (computer architecture)at douglas college 
 
 
 
